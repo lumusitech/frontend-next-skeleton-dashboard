@@ -1,6 +1,6 @@
-# Electronic security
+# Starter dashboard
 
-This is the basic project of Electronic security Inc.
+This is a starter dashboard that can be used as a base for dashboard development. It uses Shadcn UI components.
 
 ## UI
 
